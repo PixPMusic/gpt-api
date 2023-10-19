@@ -1,6 +1,6 @@
 aiohttp
 fastapi
-gpt4all==1.0.5
+gpt4all==1.0.12
 python-decouple
 python-dotenv
 sentry_sdk
